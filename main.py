@@ -4,3 +4,4 @@ def right_triangle(n=5):
 
 right_triangle(5)
 
+print ("nagesh")
